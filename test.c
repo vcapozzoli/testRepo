@@ -1,4 +1,4 @@
-
+#include <stdio>
 
 int void main()
 {
